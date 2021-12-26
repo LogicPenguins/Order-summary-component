@@ -11,7 +11,7 @@ Users should be able to:
 
 ^ Hahah I only did the second one
 
-### Screenshot
+### Finished Site
 
 ![](images/finished.png)
 
